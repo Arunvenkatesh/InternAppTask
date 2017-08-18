@@ -1,0 +1,20 @@
+PODS:
+  - SQLite.swift (0.11.3):
+    - SQLite.swift/standard (= 0.11.3)
+  - SQLite.swift/standard (0.11.3)
+  - TwitterCore (3.0.0)
+  - TwitterKit (3.0.4):
+    - TwitterCore (>= 3.0.0)
+
+DEPENDENCIES:
+  - SQLite.swift
+  - TwitterKit
+
+SPEC CHECKSUMS:
+  SQLite.swift: 99b36c22084427f0abbeb957556ce1528cf10bb3
+  TwitterCore: 8ce250be1eb34633a0e6acc89520d4165ec52c10
+  TwitterKit: 5064d99632a8d6e5f1364e6e8f7b211d196c0840
+
+PODFILE CHECKSUM: 92bdc0ff84304a116e217bebfea9abb184f7033c
+
+COCOAPODS: 1.2.1
